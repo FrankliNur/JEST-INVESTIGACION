@@ -1,0 +1,19 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "jest investigacion",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "FJ",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
